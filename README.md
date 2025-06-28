@@ -87,7 +87,7 @@ This project analyzes COVID-19 data to uncover insights and trends related to th
 3. Install required libraries:
 
   
-   pip install -r requirements.txt
+   **pip install -r requirements.txt**
   
 
 4. Open the notebook:
