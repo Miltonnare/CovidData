@@ -107,7 +107,7 @@ This project analyzes COVID-19 data to uncover insights and trends related to th
 * Correlation analysis indicated that higher testing rates were associated with higher confirmed cases.
 
 ---
-Unmasking the Pandemic: How Jupyter Notebook Illuminated the Shadows of COVID-19
+## Unmasking the Pandemic: How Jupyter Notebook Illuminated the Shadows of COVID-19
 
 ## 👨‍💻 Author and Acknowledgements
 
