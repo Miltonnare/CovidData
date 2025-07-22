@@ -108,6 +108,7 @@ This project analyzes COVID-19 data to uncover insights and trends related to th
 
 ---
 ## **Unmasking the Pandemic: How Jupyter Notebook Illuminated the Shadows of COVID-19**
+In the wake of a global pandemic that left the world grappling with uncertainty, Jupyter Notebook emerged not just as a tool, but as a compass guiding humanity through the fog of COVID-19’s impact. 
 
 ## 👨‍💻 Author and Acknowledgements
 
