@@ -114,7 +114,7 @@ Within these digital notebooks, rows of infection rates, recovery statistics, va
 
 Jupyter’s open ecosystem allowed collaboration across borders, bringing together minds from different disciplines in a shared effort to decode a crisis. It turned raw data into insight, silence into understanding.In a world that demanded rapid answers, Jupyter Notebook became a living journal of truth—transparent, reproducible, and transformative.
 
-Data didn’t just help us track the virus; it helped us understand its ripple effects—on mental health, education, global trade, and social dynamics.
+Data didn’t just help us track the virus; it helped us understand its ripple effects—on mental health, education, global trade, and social dynamics.And at the heart of this transformation stood a simple interface: a notebook that bridged the gap between chaos and clarity.
 
 ## 👨‍💻 Author and Acknowledgements
 
