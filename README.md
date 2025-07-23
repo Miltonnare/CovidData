@@ -112,6 +112,8 @@ In the wake of a global pandemic that left the world grappling with uncertainty,
 
 Within these digital notebooks, rows of infection rates, recovery statistics, vaccine rollouts, and economic indicators were not just numbers—they were stories. Stories of resilience, inequity, progress, and loss. Through real-time visualization, correlation analysis, and machine learning models, patterns began to surface—revealing hotspots, predicting trends, and informing policy decisions that saved lives.
 
+Jupyter’s open ecosystem allowed collaboration across borders, bringing together minds from different disciplines in a shared effort to decode a crisis. It turned raw data into insight, silence into understanding.
+
 ## 👨‍💻 Author and Acknowledgements
 
 * Developed by [Milton](https://github.com/Miltonnare)
